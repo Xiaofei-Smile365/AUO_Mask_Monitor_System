@@ -1,0 +1,25 @@
+No_Mask
+Wear_Mask
+#################################################
+# 请输入视频AI专案的Classes(清注意英文字母大小写)
+# 示例1:若你的标注为 person dog bird bicycle chair
+#       则将下方class1
+#               class2
+#               class3
+#               class4
+#               class5
+#         修改为person
+#               dog
+#               bird
+#               bicycle
+#               chair
+
+# 示例2:若你的标注为 OK NG
+#       则将下方class1
+#               class2
+#               class3
+#               class4
+#               class5
+#         修改为OK
+#               NG
+

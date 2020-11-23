@@ -1,0 +1,13 @@
+classes= 2
+train  = ./scripts/train.txt
+valid  = ./scripts/2007_test.txt
+names = ./voc.names
+backup = ./backup
+################################
+请按照如下格式修改以上信息
+classes= 3  # 修改classes数量
+train  = ./scripts/train.txt  # 训练集所在路径，可默认
+valid  = ./scripts/2007_test.txt  # 测试集所在路径，可默认
+names = ./data/voc.names  # 类别名称文件所在路径，可默认
+backup = ./backup  # 模型保存的路径，可默认
+
