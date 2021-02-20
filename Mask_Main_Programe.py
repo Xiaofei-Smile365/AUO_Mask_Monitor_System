@@ -3,7 +3,7 @@
 """
 @File        : AI Smart Version
 
-@Contact     : smile.qiangqian@Gmail.com
+@Contact     : xiaofei.smile365@Gmail.com
 @Author      : 苏晓飞
 @Call        ：8690-2484/0070
 @IDE         : PyCharm
